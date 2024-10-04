@@ -6,13 +6,15 @@
 - ![image](https://github.com/user-attachments/assets/bece9a29-dde2-49d5-bf60-01fa3e5f981e)
 # Productos
 - ![image](https://github.com/user-attachments/assets/e52041ec-232d-4f8a-85c6-387f2500c874)
-- ![image](https://github.com/user-attachments/assets/036a89b6-d018-4105-b96a-c9b2e8553706)
+- ![image](https://github.com/user-attachments/assets/a2a08a99-f51e-4ba4-8e16-9d03ff6023ea)
 # Sucursales
 - ![image](https://github.com/user-attachments/assets/816daa9a-bbde-46a5-b828-927437d16c32)
-- ![image](https://github.com/user-attachments/assets/7eecfafb-cc95-4013-ae1d-9a735b1074a1)
+- ![image](https://github.com/user-attachments/assets/2b707a09-5617-4947-b7e8-ab2d9f9d2da4)
+
 # Clientes
 - ![image](https://github.com/user-attachments/assets/37c8b911-76b0-452a-96c7-b87f264fb130)
-- ![image](https://github.com/user-attachments/assets/f6e2e34e-6e00-4966-80a0-86720c7383ff)
+- ![image](https://github.com/user-attachments/assets/14afe1ae-9795-4f04-85b4-d95b0cea909d)
 # Empleado
 - ![image](https://github.com/user-attachments/assets/74478b74-e2f6-417d-91af-98f58e6a77f4)
-- ![image](https://github.com/user-attachments/assets/d4b9a100-b282-4cc8-aa94-00e1811d5174)
+- ![image](https://github.com/user-attachments/assets/9cea8c0c-1173-4d52-b2c6-37008bb81a06)
+
